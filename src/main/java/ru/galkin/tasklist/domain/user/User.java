@@ -1,7 +1,9 @@
 package ru.galkin.tasklist.domain.user;
 
 import lombok.Data;
+import ru.galkin.tasklist.domain.task.Task;
 
+import java.util.List;
 import java.util.Set;
 
 @Data
